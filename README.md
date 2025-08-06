@@ -1,6 +1,6 @@
-# Vault Scrapper
+# Scrapper
 
-A professional recursive file downloader for legal, finance, and tax documents (and any other files) from the web.
+A professional recursive file downloader of any type of file from the web.
 
 ## Features
 - Recursively downloads all files from a starting URL, up to 4 levels deep
